@@ -85,8 +85,4 @@ Python Documentation – time, memory_profiler, and matplotlib
 This project was completed as part of Design and Analysis of Algorithms Lab (ENCA351) in the School of Engineering & Technology, K.R. Mangalam University.
 
 
-Let me know if you want:
-🔸 requirements.txt + .gitignore
-🔸 converting notebook code into separate .py files
-🔸 exporting the project into a ZIP folder
-🔸 submitting a GitHub-ready folder automatically
+
